@@ -1,1 +1,1 @@
-# reacthelloThis is only for showing how to develop a super simple Hello World in ReactJS
+# reacthelloThis is only my testing lab of ReactJS. Probably the code is not useful or have some bugs.
